@@ -5,7 +5,8 @@
 - Working at chess.com♟️
 - 🔭 I’m building an Online Dev Community to elevate developers' careers to a senior level. Contact me for more info
 
-🌐 Connect with me:
+🌐 Links:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-msayleb/)
-[![Portfolio](https://img.shields.io/badge/portfolio-blue)](https://alimsayleb.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://alimsayleb.github.io/)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-green)](https://www.hackerrank.com/profile/alloush_msayleb1)
